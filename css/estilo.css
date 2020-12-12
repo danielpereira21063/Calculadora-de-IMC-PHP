@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+.form, h3 {
+    margin: auto 150px;
+    
+}
+h3 {
+    font-size: 17pt;
+}
+.interface {
+    margin: auto 60px;
+}
+.top{
+    background-color: #6767;
+    font-weight: bolder;
+}
